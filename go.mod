@@ -1,1 +1,1 @@
-module github.com/zyedidia/clipboard
+module github.com/Pestdoktor/clipboard
